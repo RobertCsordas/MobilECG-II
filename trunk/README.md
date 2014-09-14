@@ -1,6 +1,6 @@
-MobilECG-II
+MobilECG II
 ===========
 
-MobilECG-II is an open source clinical grade ECG holter. For more information, please visit http://mobilecg.hu.
+MobilECG II is an open source clinical grade Holter ECG. For more information, please visit http://mobilecg.hu.
 
-NOTE: this is only a preliminary schematic. It contain known bugs, but it's main structure will remain the same.
+NOTE: this is only a preliminary schematic. It contains known bugs, but its main structure will remain the same.
