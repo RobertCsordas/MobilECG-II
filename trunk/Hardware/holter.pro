@@ -1,4 +1,4 @@
-update=2014. Szeptember 13., Szombat 13:25:40
+update=2014. Szeptember 17., Szerda 12:52:49
 version=1
 last_client=kicad
 [cvpcb]
@@ -91,4 +91,3 @@ LibName47=pmos_sot
 LibName48=hdmi
 LibName49=usbulc6-2m6
 LibName50=rgbled
-LibName51=NSS12100
