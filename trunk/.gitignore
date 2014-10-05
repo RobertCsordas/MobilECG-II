@@ -1,3 +1,4 @@
 *.dcm
 *.bak
+*.bck
 Hardware/holter-cache.lib
