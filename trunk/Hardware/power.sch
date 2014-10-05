@@ -50,6 +50,7 @@ LIBS:hdmi
 LIBS:usbulc6-2m6
 LIBS:rgbled
 LIBS:lis2dh12
+LIBS:holter-cache
 EELAYER 24 0
 EELAYER END
 $Descr A4 11693 8268
